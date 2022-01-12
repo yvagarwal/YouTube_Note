@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.bg-container{
+    width:  200px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    text-align: center;
+}
+
+.top-title{
+    color : red;
+    font-size: 25px;
+}
+
+.NoteBook{
+    margin-top: 20px;
+    background-color: lightgray;
+}
+
+.note{
+    background-color: white;
+    margin: 10px;
+    width: 180px;
+    /* height: 100px; */
+    text-align: start;
+    /* text-align: center; */
+}
+
+.google-button{
+    background-color: blue;
+    margin: 10px;
+    color: white;
+}
+
+.time{
+    background-color: rgb(241, 120, 50);
+    height: 18px;
+    text-align: center;
+    margin: 0;
+    font-style: bold;
+}
+
+.saved-text{
+    padding: 0 5px 10px 5px;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
