@@ -1,0 +1,10 @@
+.bookmarks-container__item {
+    position: absolute;
+    cursor: pointer;
+    width: 11px;
+    height: 10px;
+    z-index: 999;
+    bottom: -2px;
+    background: rgb(87, 255, 53);
+    border-radius: 5px;
+}
